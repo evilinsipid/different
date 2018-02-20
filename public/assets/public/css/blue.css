@@ -48,7 +48,7 @@
         background-position: -216px 0;
     }
 
-/* Retina support */
+/* 视网膜支持 */
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
        only screen and (-moz-min-device-pixel-ratio: 1.5),
        only screen and (-o-min-device-pixel-ratio: 3/2),

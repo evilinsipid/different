@@ -1,10 +1,10 @@
-/* Space out content a bit */
+/* 空出一点内容 */
 body {
   padding-top: 20px;
   padding-bottom: 20px;
 }
 
-/* Everything but the jumbotron gets side spacing for mobile first views */
+/* 除了jumbotron之外，除了移动的第一个视图之外，除了边距之外 */
 .header,
 .marketing,
 .footer {
@@ -12,11 +12,11 @@ body {
   padding-left: 15px;
 }
 
-/* Custom page header */
+/* 自定义页眉 */
 .header {
   border-bottom: 1px solid #e5e5e5;
 }
-/* Make the masthead heading the same height as the navigation */
+/* 使标头标题与导航相同的高度 */
 .header h3 {
   padding-bottom: 19px;
   margin-top: 0;
@@ -24,14 +24,14 @@ body {
   line-height: 40px;
 }
 
-/* Custom page footer */
+/* 自定义页脚 */
 .footer {
   padding-top: 19px;
   color: #777;
   border-top: 1px solid #e5e5e5;
 }
 
-/* Customize container */
+/* 自定义容器 */
 @media (min-width: 768px) {
   .container {
     max-width: 730px;
@@ -41,7 +41,7 @@ body {
   margin: 30px 0;
 }
 
-/* Main marketing message and sign up button */
+/* 主要营销信息和注册按钮 */
 .jumbotron {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
@@ -51,7 +51,7 @@ body {
   font-size: 21px;
 }
 
-/* Supporting marketing content */
+/* 支持营销内容 */
 .marketing {
   margin: 40px 0;
 }
@@ -59,20 +59,20 @@ body {
   margin-top: 28px;
 }
 
-/* Responsive: Portrait tablets and up */
+/* 响应：人像表和向上 */
 @media screen and (min-width: 768px) {
-  /* Remove the padding we set earlier */
+  /* 删除我们设置的padding的填充r */
   .header,
   .marketing,
   .footer {
     padding-right: 0;
     padding-left: 0;
   }
-  /* Space out the masthead */
+  /* 空出桅顶 */
   .header {
     margin-bottom: 30px;
   }
-  /* Remove the bottom border on the jumbotron for visual effect */
+  /* 移除jumbotron的底部边框以获得视觉效果 */
   .jumbotron {
     border-bottom: 0;
   }

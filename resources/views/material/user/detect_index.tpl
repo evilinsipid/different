@@ -32,7 +32,7 @@
 						{$rules->render()}
 						<table class="table">
 						    <tr>
-						        <!--    <th>ID</th>    -->
+						        <th>ID</th>
 						        <th>名称</th>
 						        <th>描述</th>
 							<th>正则表达式</th>
@@ -41,7 +41,7 @@
 						    </tr>
 						    {foreach $rules as $rule}
 						        <tr>
-								<!--    <td>#{$rule->id}</td>    -->
+								<td>#{$rule->id}</td>
 								<td>{$rule->name}</td>
 								<td>{$rule->text}</td>
 								<td>{$rule->regex}</td>

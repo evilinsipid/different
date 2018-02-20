@@ -32,10 +32,10 @@
 						{$logs->render()}
 						<table class="table">
 						    <tr>
-						        <!--    <th>ID</th>    -->
-						        <!--    <th>节点ID</th>    -->
+						        <th>ID</th>
+						        <th>节点ID</th>
 						        <th>节点名称</th>
-						        <!--    <th>规则ID</th>    -->
+						        <th>规则ID</th>
 						        <th>名称</th>
 						        <th>描述</th>
 							<th>正则表达式</th>
@@ -46,10 +46,10 @@
 						    {foreach $logs as $log}
 								{if $log->DetectRule() != null}
 									<tr>
-									<!--    <td>#{$log->id}</td>    -->
-									<!--    <td>{$log->node_id}</td>    -->
+									<td>#{$log->id}</td>
+									<td>{$log->node_id}</td>
 									<td>{$log->Node()->name}</td>
-									<!--    <td>{$log->list_id}</td>    -->
+									<td>{$log->list_id}</td>
 									<td>{$log->DetectRule()->name}</td>
 									<td>{$log->DetectRule()->text}</td>
 									<td>{$log->DetectRule()->regex}</td>

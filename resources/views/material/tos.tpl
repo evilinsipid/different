@@ -1,8 +1,4 @@
 
-
-
-
-
 {include file='header.tpl'}
 
 
@@ -76,7 +72,7 @@
 										
 											<p>
 												<ul>
-													<li>本站仅限人类及猫注册使用。</li>
+													<li>本站解释权为{$config["appName"]}所有</li>
 													<li>TOS更新时用户需要遵守最新TOS。</li>
 											   </ul>
 											</p>

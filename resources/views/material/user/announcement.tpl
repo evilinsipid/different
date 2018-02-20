@@ -18,92 +18,65 @@
                                   
 									<div class="card-inner margin-bottom-no">
 										<nav class="tab-nav margin-top-no">
-											<ul class="nav nav-list">
-												<li class="active">
-													<a class="waves-attach" data-toggle="tab" href="#all_ssr_windows"><i class="icon icon-lg">desktop_windows</i>&nbsp;Windows</a>
-												</li>
-												<li>
-													<a class="waves-attach" data-toggle="tab" href="#all_ssr_mac"><i class="icon icon-lg">laptop_mac</i>&nbsp;MacOS</a>
-												</li>
-												<li>
-													<a class="waves-attach" data-toggle="tab" href="#all_ssr_linux"><i class="icon icon-lg">dvr</i>&nbsp;Linux</a>
-												</li>
-												<li>
-													<a class="waves-attach" data-toggle="tab" href="#all_ssr_ios"><i class="icon icon-lg">phone_iphone</i>&nbsp;iOS</a>
-												</li>
-												<li>
-													<a class="waves-attach" data-toggle="tab" href="#all_ssr_android"><i class="icon icon-lg">android</i>&nbsp;Android</a>
-												</li>
-												<li>
-													<a class="waves-attach" data-toggle="tab" href="#all_ssr_router"><i class="icon icon-lg">router</i>&nbsp;路由器</a>
-												</li>
-                                                <li>
-													<a class="waves-attach" data-toggle="tab" href="#all_ssr_game"><i class="icon icon-lg">videogame_asset</i>&nbsp;游戏端</a>
-												</li>
-											</ul>
-										</nav>
+														<ul class="nav nav-list">
+															<li class="active">
+																<a class="waves-attach" data-toggle="tab" href="#all_ssr_windows"><i class="icon icon-lg">desktop_windows</i>&nbsp;Windows</a>
+															</li>
+															<li>
+																<a class="waves-attach" data-toggle="tab" href="#all_ssr_mac"><i class="icon icon-lg">laptop_mac</i>&nbsp;MacOS</a>
+															</li>
+                                                          <li>
+																<a class="waves-attach" data-toggle="tab" href="#all_ssr_linux"><i class="icon icon-lg">dvr</i>&nbsp;Linux</a>
+															</li>
+															<li>
+																<a class="waves-attach" data-toggle="tab" href="#all_ssr_ios"><i class="icon icon-lg">phone_iphone</i>&nbsp;iOS</a>
+															</li>
+															<li>
+																<a class="waves-attach" data-toggle="tab" href="#all_ssr_android"><i class="icon icon-lg">android</i>&nbsp;Android</a>
+															</li>
+															<li>
+																<a class="waves-attach" data-toggle="tab" href="#all_ssr_router"><i class="icon icon-lg">router</i>&nbsp;路由器</a>
+															</li>
+                                                          <li>
+																<a class="waves-attach" data-toggle="tab" href="#all_ssr_game"><i class="icon icon-lg">videogame_asset</i>&nbsp;游戏端</a>
+															</li>
+														</ul>
+													</nav>
                                       
-                                    <div class="tab-pane fade active in" id="all_ssr_windows">
-                                        <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
+                                      <div class="tab-pane fade active in" id="all_ssr_windows">
                                         <p><code><font size="5">1：下载软件</font></code></p>
-                                  		<p><img src="/images/c_win_1.jpg" height="280" width="500" /></p>
-                                        <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
-                               		    <p><code><font size="5">2：解压缩</font></code></p>
-                                  		<p><img src="/images/c_win_2.jpg" height="350" width="500" /></p>
-                                        <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
-                                        <p><code><font size="5">3：增加订阅地址</font></code></p>
-                                 		<p><img src="/images/c_win_3.jpg" height="220" width="500" /></p>
-                                        <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
-                                        <p><code><font size="5">4：粘贴订阅地址（地址位于用户中心-快速配置中心-订阅地址）</font></code></p>
-                                 		<p><img src="/images/c_win_4.jpg" height="300" width="500" /></p>
-                                        <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
-                                  		<p><code><font size="5">5：更新订阅</font></code></p>
-                                  		<p><img src="/images/c_win_5.jpg" height="200" width="500" /></p>
-                                        <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
-                                        <p><code><font size="5">6：订阅成功</font></code></p>
-                                        <p><img src="/images/c_win_6.jpg" height="120" width="500" /></p>
-                                        <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
-                                        <p><code><font size="5">7：服务器连接统计</font></code></p>
-                                        <p><img src="/images/c_win_7.jpg" height="250" width="500" /></p>
-                                        <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
-                                        <p><code><font size="5">8：点击服务器即可连接目的节点</font></code></p>
-                                        <p><img src="/images/c_win_8.jpg" height="300" width="750" /></p>
-                                        <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
-                                        <p><code><font size="5">9：更新PAC规则（如您有无法访问的地址，请提交工单给我，我后台负责更新哦）</font></code></p>
-                                        <p><img src="/images/c_win_9.jpg" height="170" width="520" /></p>
-								        <hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
+                                  		 <p><img src="/images/c_win_1.jpg" height="400" width="500" /></p>
+                               		   <p><code><font size="5">2：导入节点（三种方式）</font></code></p>
+                                  		<p><img src="/images/c_win_2.jpg" height="400" width="500" /></p>
+                                 		  <p><img src="/images/c_win_3.jpg" height="400" width="500" /></p>
+                                 		 <p><img src="/images/c_win_4.jpg" height="400" width="500" /></p>
+                                  		<p><code><font size="5">3：选择一个想用的节点，打开浏览器输入Google.com</font></code></p>
+                                  		<p><img src="/images/c_win_5.jpg" height="400" width="500" /></p>
+								
 
-									</div>
-									
-                                    <div class="tab-pane fade" id="all_ssr_mac">
-										<hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
-                                        <p><code><font size="5">1：把下载的DMG包放入应用程序列表</font></code></p>
-                                  		<p><img src="/images/c_mac_1.png" height="200" width="400" /></p>
-										<hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
-										<p><code><font size="5">2：打开程序</font></code></p>
+							</div>
+                                         <div class="tab-pane fade" id="all_ssr_mac">
+                                          <p><code><font size="5">1：把下载的DMG包放入应用程序列表</font></code></p>
+                                  		 <p><img src="/images/c_mac_1.png" height="200" width="400" /></p>
+                               		   <p><code><font size="5">2：打开程式</font></code></p>
                                   		<p><img src="/images/c_mac_2.png" height="400" width="500" /></p>
-										<hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
-                                        <p><code><font size="5">3：如提示不安全，请到系统偏好设置打开程序</font></code></p>
-                                 		<p><img src="/images/c_mac_3.png" height="400" width="500" /></p>
-										<hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
-                                        <p><code><font size="5">4：服务器-编辑订阅</font></code></p>
-                                 		<p><img src="/images/c_mac_4.png" height="400" width="500" /></p>
-										<hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
-                                        <p><code><font size="5">5：点击+号后填入订阅链接后手动更新订阅</font></code></p>
+                                           <p><code><font size="5">3：如提示不安全，请到系统偏好设置打开程式</font></code></p>
+                                 		  <p><img src="/images/c_mac_3.png" height="400" width="500" /></p>
+                                           <p><code><font size="5">4：服务器-编辑订阅</font></code></p>
+                                 		 <p><img src="/images/c_mac_4.png" height="400" width="500" /></p>
+                                           <p><code><font size="5">5：点击+号后填入订阅链接后手动更新订阅</font></code></p>
                                   		<p><img src="/images/c_mac_5.png" height="400" width="500" /></p>
-										<hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
-                                        <p><code><font size="5">6：选择一个节点</font></code></p>
-                                        <p><img src="/images/c_mac_6.png" height="300" width="550" /></p>
-										<hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
-                                        <p><code><font size="5">7：打开谷歌测试一下吧</font></code></p>
-                                        <p><img src="/images/c_mac_7.png" height="300" width="550" /></p>
-										<hr style=" height:2px;border:none;border-top:2px dotted #185598;" />
+                                           <p><img src="/images/c_mac_4.png" height="400" width="500" /></p>
+                                           <p><code><font size="5">6：选择一个节点</font></code></p>
+                                           <p><img src="/images/c_mac_6.png" height="300" width="550" /></p>
+                                           <p><code><font size="5">7：打开谷歌测试一下吧</font></code></p>
+                                           <p><img src="/images/c_mac_7.png" height="300" width="550" /></p>
 							
 
-									</div>
-                                    <div class="tab-pane fade" id="all_ssr_linux">
+							</div>
+                                            <div class="tab-pane fade" id="all_ssr_linux">
                                         <h3>Ubuntu使用Shadowsocks-qt5科学上网</h3>
-										<h4>说明：shadowsocks-qt5是ubuntu上一个可视化的版本</h4>
+                                  <h4>说明：shadowsocks-qt5是ubuntu上一个可视化的版本</h4>
                                    <hr />
                                   <h5>安装shadowsocks-qt5</h5>
                                   <pre><code>1.$ sudo add-apt-repository ppa:hzwhuang/ss-qt5
@@ -122,6 +95,7 @@
                                   <p><img src="/images/c-linux-7.png" height="400" width="400" /></p>
 
                                   <hr />
+                                  <p>本教程由仟佰星云试验截图整理，转载请附本文链接</p>
 								
 
 							</div>
@@ -130,7 +104,7 @@
                                    <p><img src="/images/c_ios_1.jpg"  height="600" width="600" /></p>
                                   <p>2：打开App Store 切换账号，并下载App</p>
                                   <p><img src="/images/c_ios_2.jpg"  height="2000" width="600" /></p>
-                                  <p>3：打开Safari，登录到谜之屋的用户中心导入节点</p>
+                                  <p>3：打开Safari，登录到仟佰星云的用户中心导入节点</p>
                                   <p><img src="/images/c_ios_3.jpg" height="2000" width="600" /></p>
                                    <p>附加：iOS快速连接</p>
                                   <p><img src="/images/c_ios_4.jpg"  height="2000" width="600" /></p>
@@ -186,5 +160,6 @@
 
 
 {include file='user/footer.tpl'}
+
 
 
